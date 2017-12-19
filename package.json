@@ -23,7 +23,8 @@
   ],
   "platforms": [
     "android",
-    "ios"
+    "ios",
+    "browser"
   ],
   "engines": [
     {
