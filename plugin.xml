@@ -103,7 +103,7 @@
 
   <!-- browser -->
   <platform name="browser">
-    <js-module src="src/browser/GooglePlusProxy.js" name="SplashScreenProxy">
+    <js-module src="src/browser/GooglePlusProxy.js" name="GooglePlusProxy">
       <runs />
     </js-module>
   </platform>
