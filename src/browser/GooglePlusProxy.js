@@ -1,4 +1,4 @@
-cordova.define("cordova-plugin-googleplus.SplashScreenProxy", function (require, exports, module) {
+cordova.define("cordova-plugin-googleplus.GooglePlusProxy", function (require, exports, module) {
 
   var webviewPersistId = 'googleconnect.tuto.com';
 
