@@ -32,7 +32,7 @@ var GooglePlus = {
   login: function (successCallback, errorCallback, options) {
     var http = window.require('http');
     var param = 'scope=' + options[0].scopes;
-    param += '&client_id=' + options[0].webClientId;
+    param += '&client_id=WEB_APPLICATION_CLIENT_ID';
     param += '&redirect_uri=http://localhost:9004';
     param += '&response_type=code';
     var gUrl = 'https://accounts.google.com/o/oauth2/v2/auth?' + param;
