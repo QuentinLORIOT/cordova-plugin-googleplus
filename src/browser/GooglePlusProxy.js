@@ -1,5 +1,4 @@
 var webviewPersistId = 'googleconnect.tuto.com';
-var client_id = "236851287763-4loc9dpfjfpbh0gle18i5dgj3dvroeur.apps.googleusercontent.com";
 
 function _callWebview(url, callback) {
     var webview = document.createElement('webview');
