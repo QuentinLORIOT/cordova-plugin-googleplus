@@ -24,7 +24,8 @@
   "platforms": [
     "android",
     "ios",
-    "browser"
+    "browser",
+    "electron"
   ],
   "dependencies": {
     "q": "*"

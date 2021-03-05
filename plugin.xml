@@ -140,4 +140,11 @@
     </js-module>
   </platform>
 
+  <!-- electron -->
+  <platform name="electron">
+    <js-module src="src/electron/GooglePlusProxy.js" name="GooglePlusProxy">
+      <runs />
+    </js-module>
+  </platform>
+
 </plugin>
